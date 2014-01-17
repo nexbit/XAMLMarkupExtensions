@@ -21,11 +21,6 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		StrongName.snk = StrongName.snk
 	EndProjectSection
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".nuget", ".nuget", "{D0803872-4C73-41D9-9BB6-33672E0B54A6}"
-	ProjectSection(SolutionItems) = preProject
-		.nuget\NuGet.targets = .nuget\NuGet.targets
-	EndProjectSection
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NugetPackage", "NugetPackage\NugetPackage.csproj", "{7ACFB143-0D40-4CCE-9F36-D614BA4BE96B}"
 EndProject
 Global
