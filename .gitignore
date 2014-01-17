@@ -31,3 +31,8 @@ _ReSharper*/
 *.zip
 *.pfx
 *Signed*
+
+## Added by Nexbit
+*.jmconfig
+*.snk
+*.pfx
